@@ -4,3 +4,4 @@ Idade: 19
 Altura: 1.81m
 Cidade: Aracruz - ES
 Pais: Brasil
+Cor de Cabelo: Preto
