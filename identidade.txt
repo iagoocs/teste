@@ -1,2 +1,4 @@
 Nome: Iago
 Cpf: 18037467801
+Idade: 19
+Altura: 1.81m
